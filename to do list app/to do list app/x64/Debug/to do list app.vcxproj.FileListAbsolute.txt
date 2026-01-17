@@ -1,0 +1,6 @@
+C:\Users\GEO\Desktop\to do list app\x64\Debug\raylib.dll
+C:\Users\GEO\Desktop\to do list app\x64\Debug\glfw3.dll
+C:\Users\GEO\Desktop\to do list app\to do list app\x64\Debug\to do li.ED0F6DFA.Up2Date
+C:\Users\GEO\Desktop\Projects\to do list app\x64\Debug\raylib.dll
+C:\Users\GEO\Desktop\Projects\to do list app\x64\Debug\glfw3.dll
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app\x64\Debug\to do li.ED0F6DFA.Up2Date

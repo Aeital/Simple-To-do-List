@@ -1,0 +1,86 @@
+﻿  to do list app.cpp
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(17,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(23,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(77,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(86,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(121,25): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(121,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(121,37): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(121,37): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(121,49): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(121,49): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(121,65): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(121,65): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(123,23): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(123,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(123,30): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(123,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(125,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(126,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(127,23): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(127,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(127,30): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(127,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(128,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(129,26): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(129,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(129,42): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(129,42): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(129,58): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(129,58): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(129,78): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(129,78): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(134,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(135,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(136,25): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(136,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(136,34): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(136,34): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(137,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(144,33): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(144,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(144,54): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(144,54): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(145,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(154,38): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(154,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(154,80): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(154,80): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(155,38): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(155,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(155,80): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(155,80): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(156,37): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(156,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(156,83): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(156,83): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(164,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(165,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(176,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(177,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(185,29): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(185,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(185,45): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(185,45): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(199,28): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(199,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(199,43): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(199,43): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(199,58): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(199,58): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(199,77): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(199,77): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(204,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(205,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(206,29): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(206,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(206,42): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(206,42): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(212,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(214,27): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(214,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(214,37): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\GEO\Desktop\Projects\to do list app\to do list app.cpp(214,37): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  to do list app.vcxproj -> C:\Users\GEO\Desktop\Projects\to do list app\x64\Debug\to do list app.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
